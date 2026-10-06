@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "AK-47 Bloodsport",
+        "precio": 498,
+        "float": "0.0577",
+        "img": "public/img/ak-47 bloodsport.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "AWP Dragon Lore",
+        "precio": 13.941,
+        "float": "0.0580",
+        "img": "public/img/awp dragon lore.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Deagle Printstream",
+        "precio": 203.53,
+        "float": "0.0557",
+        "img": "public/img/deagle printstream.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "M4A1-S Hyperbeast",
+        "precio": 279.09,
+        "float": "0.0619",
+        "img": "public/img/m4a1s hyperbeast.jpg"
+    }
+]

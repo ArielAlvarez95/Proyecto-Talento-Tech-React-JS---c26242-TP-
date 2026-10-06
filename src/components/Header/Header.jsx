@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import './Header.css';
 import { Nav } from "../Nav/Nav";
-import knife from '../../assets/knife.png'
+import knife from '/public/img/knife.png'
 
 export const Header = () => {
   return (
