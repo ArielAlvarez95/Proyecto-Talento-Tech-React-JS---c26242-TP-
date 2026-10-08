@@ -5,7 +5,7 @@
         "descripcion": "AK-47 Bloodsport es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin presenta un diseño llamativo con colores vibrantes y un patrón de arte inspirado en el estilo de graffiti. Es muy popular entre los jugadores debido a su apariencia única y su valor en el mercado de skins.",
         "precio": 498,
         "float": "0.0577",
-        "img": "/img/ak-47 bloodsport.jpg"
+        "img": "/img/ak 47 bloodsport.png"
     },
     {
         "id": 2,
@@ -29,6 +29,6 @@
         "descripcion": "M4A1-S Hyperbeast es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin presenta un diseño artístico y colorido con un patrón de criatura fantástica en el cuerpo del rifle M4A1-S. Es muy apreciada por los jugadores debido a su apariencia única y su valor en el mercado de skins.",
         "precio": 279.09,
         "float": "0.0619",
-        "img": "/img/m4a1s hyperbeast.jpg"
+        "img": "/img/m4a1s hyperbeast.png"
     }
 ]
