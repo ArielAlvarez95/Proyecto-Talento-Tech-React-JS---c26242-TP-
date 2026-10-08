@@ -2,29 +2,33 @@
     {
         "id": 1,
         "nombre": "AK-47 Bloodsport",
+        "descripcion": "AK-47 Bloodsport es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin presenta un diseño llamativo con colores vibrantes y un patrón de arte inspirado en el estilo de graffiti. Es muy popular entre los jugadores debido a su apariencia única y su valor en el mercado de skins.",
         "precio": 498,
         "float": "0.0577",
-        "img": "public/img/ak-47 bloodsport.jpg"
+        "img": "/img/ak-47 bloodsport.jpg"
     },
     {
         "id": 2,
         "nombre": "AWP Dragon Lore",
+        "descripcion": "AWP Dragon Lore es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin es muy codiciada y se considera una de las más raras y valiosas del juego. Presenta un diseño detallado con un dragón dorado en el cuerpo del rifle AWP, lo que le da un aspecto impresionante y distintivo.",
         "precio": 13.941,
         "float": "0.0580",
-        "img": "public/img/awp dragon lore.jpg"
+        "img": "/img/awp dragon lore.jpg"
     },
     {
         "id": 3,
         "nombre": "Deagle Printstream",
+        "descripcion": "Deagle Printstream es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin presenta un diseño moderno y elegante con un patrón de líneas y colores llamativos. Es popular entre los jugadores debido a su apariencia estilizada y su valor en el mercado de skins.",
         "precio": 203.53,
         "float": "0.0557",
-        "img": "public/img/deagle printstream.jpg"
+        "img": "/img/deagle printstream.jpg"
     },
     {
         "id": 4,
         "nombre": "M4A1-S Hyperbeast",
+        "descripcion": "M4A1-S Hyperbeast es una skin de arma en el juego Counter-Strike: Global Offensive. Esta skin presenta un diseño artístico y colorido con un patrón de criatura fantástica en el cuerpo del rifle M4A1-S. Es muy apreciada por los jugadores debido a su apariencia única y su valor en el mercado de skins.",
         "precio": 279.09,
         "float": "0.0619",
-        "img": "public/img/m4a1s hyperbeast.jpg"
+        "img": "/img/m4a1s hyperbeast.jpg"
     }
 ]
