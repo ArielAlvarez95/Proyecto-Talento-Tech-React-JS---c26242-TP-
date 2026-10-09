@@ -1,0 +1,21 @@
+header {
+    background-color:rgb(236, 203, 120);
+    display: flex;
+    justify-content:space-between;
+
+}
+
+div.logo-header {
+    width: 40%;
+    height: 40%;
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+div.logo-header img {
+    width: 40%;
+    height: 40%;
+    border-radius: 40%;
+    border: 2px solid rgb(255, 255, 255);
+}
+

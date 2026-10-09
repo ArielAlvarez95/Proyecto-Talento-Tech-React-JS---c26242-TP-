@@ -1,0 +1,20 @@
+nav {
+    background-color:rgb(236, 203, 120);
+    display:flex;
+    gap: 2rem;
+    font-weight: bold;
+    width: 100%;
+}
+
+nav ul{
+    margin-top: 5rem;
+    margin-right: 3rem;
+    margin-left: auto;
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+    font-size: 2rem;
+    
+}
+
+
