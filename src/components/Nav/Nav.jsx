@@ -12,7 +12,7 @@ export const Nav = () => {
                 <Link to="/">Inicio</Link>
             </li>
             <li>
-                <Link to="/cart">Carrito  {totalItems > 0 && (<span className="incart">{totalItems}</span>)}
+                <Link to="/cart">Carrito   {totalItems > 0 && (<span className="incart">{ totalItems}</span>)}
                 </Link>
             </li>
         </ul>

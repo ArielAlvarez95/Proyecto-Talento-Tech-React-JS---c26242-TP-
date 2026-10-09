@@ -1,0 +1,36 @@
+.product-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    width: 50%;
+    padding-bottom: 1rem;
+    border-radius: 2rem;
+    border: solid black;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+}
+
+a {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+    text-decoration: none;
+}
+
+article img {
+    width: 100%;
+}
+
+article p {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    justify-content: center;
+    list-style: none;
+}
+
+article h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

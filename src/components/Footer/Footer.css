@@ -1,4 +1,17 @@
 footer {
-    background-color:rgb(236, 203, 120);
+    background-color:rgb(201, 173, 102);
 }
+
+.footer-list {
+    width: auto;
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+    padding: 1rem 1rem;
+}
+
+.footer-list img {
+    width: 5rem;
+    height: auto;
+}   
 
