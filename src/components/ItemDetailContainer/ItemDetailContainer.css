@@ -1,0 +1,11 @@
+.item-detail-container {
+    display: flex;
+    justify-items: center;
+    margin-top: 5%;
+    width: 65%;
+    height: 65%;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+

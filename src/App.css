@@ -1,11 +1,21 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-main{
-    background-color:rgb(236, 203, 120);
-    display: flex;
+main {
+    background-color: rgb(236, 203, 120);
+    display: block;
     width: 100%;
+}
+
+main section {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+main section h1 {
+    text-align: center;
+    margin: 0;
 }
