@@ -1,7 +1,9 @@
 body {
+    height: 100%;
+    width: 100%;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;  
 }
 
 main {
@@ -15,7 +17,8 @@ main section {
     box-sizing: border-box;
 }
 
-main section h1 {
+main h1 {
     text-align: center;
     margin: 0;
 }
+

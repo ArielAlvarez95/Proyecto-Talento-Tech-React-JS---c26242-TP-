@@ -7,6 +7,7 @@ export const Footer = () => {
         <footer>
             <nav>   
                 <ul className="footer-list">
+                    <p>Talento Tech - BA 2026</p>
                     <li><img src={whatsapp} alt="logo-whatsapp"/></li>
                     <li><img src={instagram} alt="logo-instagram"/></li>
                 </ul>
